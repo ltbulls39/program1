@@ -1,0 +1,109 @@
+=========================================================
+================Now testing ArrayPriQueue================
+=========================================================
+
+Time taken to enqueue(N): 0.096749161 seconds.
+Time taken to poll(N): 0.153112628 seconds.
+
+Time taken to enqueue(2N): 0.335849819 seconds.
+Time taken to poll(2N): 0.710725101 seconds.
+
+Time taken to enqueue(4N): 1.095231027 seconds.
+Time taken to poll(4N): 2.127169438 seconds.
+
+Iteration 1 complete.
+=========================================================
+Time taken to enqueue(N): 0.055981656 seconds.
+Time taken to poll(N): 0.103084986 seconds.
+
+Time taken to enqueue(2N): 0.227244051 seconds.
+Time taken to poll(2N): 0.460802411 seconds.
+
+Time taken to enqueue(4N): 1.002729211 seconds.
+Time taken to poll(4N): 2.185684477 seconds.
+
+Iteration 2 complete.
+=========================================================
+Time taken to enqueue(N): 0.064419819 seconds.
+Time taken to poll(N): 0.104450686 seconds.
+
+Time taken to enqueue(2N): 0.221429342 seconds.
+Time taken to poll(2N): 0.460472747 seconds.
+
+Time taken to enqueue(4N): 1.006727484 seconds.
+Time taken to poll(4N): 2.175042594 seconds.
+
+Iteration 3 complete.
+=========================================================
+==============Now testing UnorderedPriQueue==============
+=========================================================
+
+Time taken to enqueue(N): 0.006331085 seconds.
+Time taken to poll(N): 2.955770291 seconds.
+
+Time taken to enqueue(2N): 0.002589177 seconds.
+Time taken to poll(2N): 11.646964245 seconds.
+
+Time taken to enqueue(4N): 0.005491608 seconds.
+Time taken to poll(4N): 46.684148474 seconds.
+
+Iteration 1 complete.
+=========================================================
+Time taken to enqueue(N): 0.001185916 seconds.
+Time taken to poll(N): 2.901359281 seconds.
+
+Time taken to enqueue(2N): 0.002370009 seconds.
+Time taken to poll(2N): 11.629647391 seconds.
+
+Time taken to enqueue(4N): 0.005096303 seconds.
+Time taken to poll(4N): 47.897471869 seconds.
+
+Iteration 2 complete.
+=========================================================
+Time taken to enqueue(N): 0.001349654 seconds.
+Time taken to poll(N): 2.926514778 seconds.
+
+Time taken to enqueue(2N): 0.002727753 seconds.
+Time taken to poll(2N): 11.706308548 seconds.
+
+Time taken to enqueue(4N): 0.00481587 seconds.
+Time taken to poll(4N): 47.173399378 seconds.
+
+Iteration 3 complete.
+=========================================================
+================Now testing HeapPriQueue=================
+=========================================================
+
+Time taken to enqueue(N): 0.008625607 seconds.
+Time taken to poll(N): 0.018231453 seconds.
+
+Time taken to enqueue(2N): 0.008584398 seconds.
+Time taken to poll(2N): 0.016127656 seconds.
+
+Time taken to enqueue(4N): 0.009319579 seconds.
+Time taken to poll(4N): 0.021712621 seconds.
+
+Iteration 1 complete.
+=========================================================
+Time taken to enqueue(N): 0.001976527 seconds.
+Time taken to poll(N): 0.005471551 seconds.
+
+Time taken to enqueue(2N): 0.003733885 seconds.
+Time taken to poll(2N): 0.010622555 seconds.
+
+Time taken to enqueue(4N): 0.007531223 seconds.
+Time taken to poll(4N): 0.022007641 seconds.
+
+Iteration 2 complete.
+=========================================================
+Time taken to enqueue(N): 0.001917085 seconds.
+Time taken to poll(N): 0.005111619 seconds.
+
+Time taken to enqueue(2N): 0.003729145 seconds.
+Time taken to poll(2N): 0.013246741 seconds.
+
+Time taken to enqueue(4N): 0.007554927 seconds.
+Time taken to poll(4N): 0.021771332 seconds.
+
+Iteration 3 complete.
+=========================================================
